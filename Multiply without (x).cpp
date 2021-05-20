@@ -40,3 +40,4 @@ double multiplicar(double a, double b)
 
 		return resultado;
 }
+// Buena le rat
